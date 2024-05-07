@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\BBMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D005244A-268B-4DEE-92D5-33DCA33626EC}|BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\bbms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D005244A-268B-4DEE-92D5-33DCA33626EC}|BBMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A20E46A-C1DB-4227-B444-99A0760B980B}|..\\DAL_BBMS\\DAL_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\dal_bbms\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,18 +18,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\BBMS\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\BBMS\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DAL_BBMS\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\DAL_BBMS\\DBConnect.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DAL_BBMS\\DBConnect.cs",
+              "RelativeToolTip": "..\\DAL_BBMS\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:56:23.82Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-05-07T05:39:05.927Z",
+              "EditorCaption": ""
             }
           ]
         }
