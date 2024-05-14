@@ -9,9 +9,9 @@ namespace DTO_BBMS
         private int _NHM_MaNHM;
         private string _NHM_Ho;
         private string _NHM_Ten;
-        private string _NHM_NgaySinh;
+        private DateTime _NHM_NgaySinh;
         private string _NHM_DiaChi;
-        private string _NHM_GioiTinh;
+        private int _NHM_GioiTinh;
         private string _NHM_SDT;
         private string _NHM_Email;
 
@@ -49,7 +49,7 @@ namespace DTO_BBMS
                 _NHM_Ten = value;
             }
         }
-        public string NHM_NgaySinh
+        public DateTime NHM_NgaySinh
         {
             get
             {
@@ -71,7 +71,7 @@ namespace DTO_BBMS
                 _NHM_DiaChi = value;
             }
         }
-        public string NHM_GioiTinh
+        public int NHM_GioiTinh
         {
             get
             {
@@ -104,21 +104,34 @@ namespace DTO_BBMS
                 _NHM_Email = value;
             }
         }
-        
+        private string TachHo(string HoTen)
+        {
+            int i = HoTen.LastIndexOf(" ");
+            string Ho = HoTen.Substring(0, i);
+            return Ho;
+        }
+        private string TachTen(string HoTen)
+        {
+            int i = HoTen.LastIndexOf(" ");
+            string Ten = HoTen.Substring(i + 1);
+            return Ten;
+        }
+
         public DTO_NguoiHienMau()
         {
 
         }
-        public DTO_NguoiHienMau(int MaNHM, string Ho, string Ten, string NgaySinh, string DiaChi, string GioiTinh, string SDT, string Email)
+        public DTO_NguoiHienMau(int MaNHM, string HoTen, DateTime NgaySinh, string DiaChi, int GioiTinh, string SDT, string Email)
         {
             this.NHM_MaNHM = MaNHM;
-            this.NHM_Ho = Ho;
-            this.NHM_Ten = Ten;
-            this.NHM_NgaySinh = NgaySinh;
+            this.NHM_Ho = TachHo(HoTen);
+            this.NHM_Ten = TachTen(HoTen);
+            this.NHM_NgaySinh = NgaySinh.Date;
             this.NHM_DiaChi = DiaChi;
             this.NHM_GioiTinh = GioiTinh;
             this._NHM_SDT = SDT;
             this._NHM_Email = Email;
         }
+        static void Main() { }
     }
 }

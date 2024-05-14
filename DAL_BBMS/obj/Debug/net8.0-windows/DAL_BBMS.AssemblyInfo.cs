@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DAL_BBMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e7ed07f202bca5402d80f601c93ee4535327399")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1176d1d04b8a521a4234b8b446584b82e020f65")]
 [assembly: System.Reflection.AssemblyProductAttribute("DAL_BBMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DAL_BBMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
