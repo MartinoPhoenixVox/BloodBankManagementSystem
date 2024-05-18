@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\BBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D542E7E7-9207-4905-9B9E-3A584ACD4A3D}|..\\GUI_BBMS\\GUI_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\gui_bbms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D542E7E7-9207-4905-9B9E-3A584ACD4A3D}|..\\GUI_BBMS\\GUI_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\gui_bbms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A20E46A-C1DB-4227-B444-99A0760B980B}|..\\DAL_BBMS\\DAL_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\dal_bbms\\dal_nguoihienmau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564FB356-B6F4-4541-87EC-168E79D7F795}|..\\DTO_BBMS\\DTO_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\dto_bbms\\dto_nguoihienmau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A20E46A-C1DB-4227-B444-99A0760B980B}|..\\DAL_BBMS\\DAL_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\dal_bbms\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F708AB-A3C3-4A6D-AC63-B200B8F6CCDA}|..\\BUS_BBMS\\BUS_BBMS.csproj|d:\\drive\\shared\\bloodbankmanagementsystem\\bus_bbms\\bus_nguoihienmau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DAL_NguoiHienMau.cs",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DAL_BBMS\\DAL_NguoiHienMau.cs",
+              "RelativeDocumentMoniker": "..\\DAL_BBMS\\DAL_NguoiHienMau.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DAL_BBMS\\DAL_NguoiHienMau.cs",
+              "RelativeToolTip": "..\\DAL_BBMS\\DAL_NguoiHienMau.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAADwv4AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:50:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\GUI_BBMS\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\GUI_BBMS\\Form1.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\GUI_BBMS\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\GUI_BBMS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:35:51.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\GUI_BBMS\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\GUI_BBMS\\Form1.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\GUI_BBMS\\Form1.cs",
+              "RelativeToolTip": "..\\GUI_BBMS\\Form1.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAgwJYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:25:07.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BUS_NguoiHienMau.cs",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\BUS_BBMS\\BUS_NguoiHienMau.cs",
+              "RelativeDocumentMoniker": "..\\BUS_BBMS\\BUS_NguoiHienMau.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\BUS_BBMS\\BUS_NguoiHienMau.cs",
+              "RelativeToolTip": "..\\BUS_BBMS\\BUS_NguoiHienMau.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:15:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DAL_BBMS\\DBConnect.cs",
+              "RelativeDocumentMoniker": "..\\DAL_BBMS\\DBConnect.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DAL_BBMS\\DBConnect.cs",
+              "RelativeToolTip": "..\\DAL_BBMS\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:25:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_NguoiHienMau.cs",
+              "DocumentMoniker": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DTO_BBMS\\DTO_NguoiHienMau.cs",
+              "RelativeDocumentMoniker": "..\\DTO_BBMS\\DTO_NguoiHienMau.cs",
+              "ToolTip": "D:\\DRIVE\\Shared\\BloodBankManagementSystem\\DTO_BBMS\\DTO_NguoiHienMau.cs",
+              "RelativeToolTip": "..\\DTO_BBMS\\DTO_NguoiHienMau.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwIgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T16:29:37.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
